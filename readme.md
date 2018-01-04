@@ -1,6 +1,6 @@
 # kribo-gutil
 
-This is a small gulp util app 
+Utility functions for gulp plugins
 
 
 ## Usage
@@ -25,3 +25,7 @@ numbers (times, counts, etc) = magenta
 ### colors
 
 Is an instance of [chalk](https://github.com/sindresorhus/chalk).
+
+### date
+
+Is an instance of [dateformat](https://github.com/felixge/node-dateformat).
