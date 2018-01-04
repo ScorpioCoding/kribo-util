@@ -7,7 +7,7 @@
   },
   "author": "Kribo <kribo@outlook.com> (https://scorpiocoding.net/)",
   "license": "ISC",
-  "description": "kribo-util, utility app (log) ",
+  "description": "kribo-util, utility app (log ) ",
   "devDependencies": {
     "mocha": "^4.1.0",
     "should": "^13.2.0"
