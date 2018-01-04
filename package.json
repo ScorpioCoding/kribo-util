@@ -1,0 +1,22 @@
+{
+  "name": "kribo-util",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Kribo <kribo@outlook.com> (https://scorpiocoding.net/)",
+  "license": "ISC",
+  "description": "kribo-util, utility app (log) ",
+  "devDependencies": {
+    "mocha": "^4.1.0",
+    "should": "^13.2.0"
+  },
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "dateformat": "^3.0.2",
+    "fancy-log": "^1.3.2",
+    "gulplog": "^1.0.0",
+    "has-gulplog": "^0.1.0"
+  }
+}
