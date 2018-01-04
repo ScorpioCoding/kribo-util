@@ -1,4 +1,4 @@
-# kribo-gutil
+# kribo-util
 
 Utility functions for gulp plugins
 
