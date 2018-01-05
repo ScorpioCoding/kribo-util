@@ -2,7 +2,7 @@
 
 Utility functions for gulp plugins
 
-# kribo-util [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependencies][david-dm-image]][david-dm-url]
+[![MIT license][MIT-image]][MIT-url] [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependencies][dep-image]][dep-url] [![devDependencies][devdep-image]][devdep-url]
 
 ## Usage
 
@@ -35,10 +35,21 @@ Is an instance of [dateformat](https://github.com/felixge/node-dateformat).
 
 [npm-url]: https://www.npmjs.com/package/kribo-util
 [npm-image]: https://img.shields.io/npm/v/kribo-util.svg?style=flat
+
 [travis-url]: https://travis-ci.org/ScorpioCoding/kribo-util
 [travis-image]: https://travis-ci.org/ScorpioCoding/kribo-util.svg?branch=master
-[david-dm-url]: https://david-dm.org/ScorpioCoding/kribo-util
-[david-dm-image]: http://img.shields.io/david/ScorpioCoding/kribo-util.svg?style=flat
+
+[dep-url]: https://david-dm.org/ScorpioCoding/kribo-util
+[dep-image]: http://img.shields.io/david/ScorpioCoding/kribo-util.svg?style=flat
+[devdep-url]: https://david-dm.org/ScorpioCoding/kribo-util?type=dev
+[devdep-image]: https://david-dm.org/ScorpioCoding/kribo-util/dev-status.svg?style=flat
+
+[MIT-url]: http://opensource.org/licenses/MIT
+[MIT-image]: http://img.shields.io/badge/license-MIT-brightgreen.svg
+
+
+
+
 
 
 
