@@ -34,7 +34,8 @@ Is an instance of [dateformat](https://github.com/felixge/node-dateformat).
 
 
 [npm-url]: https://www.npmjs.com/package/kribo-util
-[npm-image]: https://badge.fury.io/js/gulp-util.svg
+[npm-image]: https://img.shields.io/npm/v/kribo-util.svg?style=flat
 [travis-url]: https://travis-ci.org/ScorpioCoding/kribo-util
 [travis-image]: https://travis-ci.org/ScorpioCoding/kribo-util.svg?branch=master
+
 
