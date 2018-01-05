@@ -1,6 +1,6 @@
-# kribo-util
+# sc-gutil
 
-Utility functions for gulp plugins
+ScorpioCoding Gulp Utility functions for gulp plugins
 
 [![MIT license][MIT-image]][MIT-url] [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependencies][dep-image]][dep-url] [![devDependencies][devdep-image]][devdep-url]
 
@@ -33,16 +33,16 @@ Is an instance of [dateformat](https://github.com/felixge/node-dateformat).
 
 
 
-[npm-url]: https://www.npmjs.com/package/kribo-util
-[npm-image]: https://img.shields.io/npm/v/kribo-util.svg?style=flat
+[npm-url]: https://www.npmjs.com/package/sc-gutil
+[npm-image]: https://img.shields.io/npm/v/sc-gutil.svg?style=flat
 
-[travis-url]: https://travis-ci.org/ScorpioCoding/kribo-util
-[travis-image]: https://travis-ci.org/ScorpioCoding/kribo-util.svg?branch=master
+[travis-url]: https://travis-ci.org/ScorpioCoding/sc-gutil
+[travis-image]: https://travis-ci.org/ScorpioCoding/sc-gutil.svg?branch=master
 
-[dep-url]: https://david-dm.org/ScorpioCoding/kribo-util
-[dep-image]: http://img.shields.io/david/ScorpioCoding/kribo-util.svg?style=flat
-[devdep-url]: https://david-dm.org/ScorpioCoding/kribo-util?type=dev
-[devdep-image]: https://david-dm.org/ScorpioCoding/kribo-util/dev-status.svg?style=flat
+[dep-url]: https://david-dm.org/ScorpioCoding/sc-gutil
+[dep-image]: http://img.shields.io/david/ScorpioCoding/sc-gutil.svg?style=flat
+[devdep-url]: https://david-dm.org/ScorpioCoding/sc-gutil?type=dev
+[devdep-image]: https://david-dm.org/ScorpioCoding/sc-gutil/dev-status.svg?style=flat
 
 [MIT-url]: http://opensource.org/licenses/MIT
 [MIT-image]: http://img.shields.io/badge/license-MIT-brightgreen.svg
