@@ -1,5 +1,7 @@
 # sc-gutil
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ScorpioCoding/sc-gutil.svg)](https://greenkeeper.io/)
+
 ScorpioCoding Gulp Utility functions for gulp plugins
 
 [![MIT license][MIT-image]][MIT-url] [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependencies][dep-image]][dep-url] [![devDependencies][devdep-image]][devdep-url]
