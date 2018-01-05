@@ -42,7 +42,9 @@ Is an instance of [dateformat](https://github.com/felixge/node-dateformat).
 [travis-image]: https://travis-ci.org/ScorpioCoding/sc-gutil.svg?branch=master
 
 [dep-url]: https://david-dm.org/ScorpioCoding/sc-gutil
-[dep-image]: http://img.shields.io/david/ScorpioCoding/sc-gutil.svg?style=flat
+[dep-image]: https://david-dm.org/ScorpioCoding/sc-gutil/status.svg?style=flat
+
+
 [devdep-url]: https://david-dm.org/ScorpioCoding/sc-gutil?type=dev
 [devdep-image]: https://david-dm.org/ScorpioCoding/sc-gutil/dev-status.svg?style=flat
 
