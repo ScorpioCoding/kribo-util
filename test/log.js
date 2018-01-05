@@ -3,6 +3,7 @@ require('should');
 require('mocha');
 
 describe('log', function(){
+
   it('should work i guess', function(done){
     var count = 0;
     var writtenValue = '';
