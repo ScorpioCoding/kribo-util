@@ -4,7 +4,7 @@
 
 ScorpioCoding Gulp Utility functions for gulp plugins
 
-[![Greenkeeper badge][greenkeeper-image]][greenkeeper-url] [![MIT license][MIT-image]][MIT-url] [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependencies][dep-image]][dep-url] [![devDependencies][devdep-image]][devdep-url]
+[![sc up/down][sc-image]][sc-url] [![Greenkeeper badge][greenkeeper-image]][greenkeeper-url] [![MIT license][MIT-image]][MIT-url] [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependencies][dep-image]][dep-url] [![devDependencies][devdep-image]][devdep-url]
 
 ## Usage
 
@@ -52,6 +52,8 @@ Is an instance of [dateformat](https://github.com/felixge/node-dateformat).
 [greenkeeper-url]: https://greenkeeper.io/
 [greenkeeper-image]: https://badges.greenkeeper.io/ScorpioCoding/sc-gutil.svg
 
+[sc-url]: https://scorpiocoding.net
+[sc-image]: https://img.shields.io/website-up-down-green-red/http/shields.io.svg?label=scorpiocoding.net
 
 
 
