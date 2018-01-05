@@ -1,7 +1,7 @@
 {
   "name": "kribo-util",
   "description": "Utility functions for gulp plugins",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denOldTimer/kribo-gutil.git"
+    "url": "git+https://github.com/denOldTimer/kribo-util.git"
   },
   "keywords": [
     "gulp",
@@ -36,7 +36,7 @@
     "node": ">=4"
   },
   "bugs": {
-    "url": "https://github.com/denOldTimer/kribo-gutil/issues"
+    "url": "https://github.com/denOldTimer/kribo-util/issues"
   },
-  "homepage": "https://github.com/denOldTimer/kribo-gutil#readme"
+  "homepage": "https://github.com/denOldTimer/kribo-util#readme"
 }
