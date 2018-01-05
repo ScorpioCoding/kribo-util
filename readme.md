@@ -2,6 +2,7 @@
 
 Utility functions for gulp plugins
 
+# gulp-util [![NPM version][npm-image]][npm-url] 
 
 ## Usage
 
@@ -29,3 +30,7 @@ Is an instance of [chalk](https://github.com/sindresorhus/chalk).
 ### date
 
 Is an instance of [dateformat](https://github.com/felixge/node-dateformat).
+
+
+
+[npm-url]: https://www.npmjs.com/package/kribo-util
