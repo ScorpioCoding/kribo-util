@@ -47,4 +47,8 @@ describe('log', function(){
 
     done();
   });
+
+  it(util.colors.blue('should accept colors'), function(done){
+    done();
+  });
 });
