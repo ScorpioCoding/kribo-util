@@ -1,5 +1,5 @@
 {
-  "name": "kribo-util",
+  "name": "sc-gutil",
   "description": "Utility functions for gulp plugins",
   "version": "1.0.2",
   "main": "index.js",
@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denOldTimer/kribo-util.git"
+    "url": "git+https://github.com/ScorpioCoding/sc-gutil.git"
   },
   "keywords": [
     "gulp",
@@ -36,7 +36,7 @@
     "node": ">=4"
   },
   "bugs": {
-    "url": "https://github.com/denOldTimer/kribo-util/issues"
+    "url": "https://github.com/ScorpioCoding/sc-gutil.git/issues"
   },
-  "homepage": "https://github.com/denOldTimer/kribo-util#readme"
+  "homepage": "https://github.com/ScorpioCoding/sc-gutil.git#readme"
 }
