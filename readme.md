@@ -2,7 +2,7 @@
 
 Utility functions for gulp plugins
 
-# gulp-util [![NPM version][npm-image]][npm-url] 
+# kribo-util [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url]
 
 ## Usage
 
@@ -35,5 +35,6 @@ Is an instance of [dateformat](https://github.com/felixge/node-dateformat).
 
 [npm-url]: https://www.npmjs.com/package/kribo-util
 [npm-image]: https://badge.fury.io/js/gulp-util.svg
-[travis-url]: https://travis-ci.org/denOldTimer/kribo-util
-[travis-image]: https://img.shields.io/travis/gulpjs/gulp-util.svg?branch=master
+[travis-url]: https://travis-ci.org/ScorpioCoding/kribo-util
+[travis-image]: https://travis-ci.org/ScorpioCoding/kribo-util.svg?branch=master
+
