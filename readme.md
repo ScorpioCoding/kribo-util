@@ -4,7 +4,8 @@
 
 ScorpioCoding Gulp Utility functions for gulp plugins
 
-[![sc up/down][sc-image]][sc-url] [![Greenkeeper badge][greenkeeper-image]][greenkeeper-url] [![MIT license][MIT-image]][MIT-url] [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependencies][dep-image]][dep-url] [![devDependencies][devdep-image]][devdep-url]
+ [![Greenkeeper badge][greenkeeper-image]][greenkeeper-url] [![MIT license][MIT-image]][MIT-url] [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependencies][dep-image]][dep-url] [![devDependencies][devdep-image]][devdep-url]
+
 
 ## Usage
 
@@ -52,10 +53,22 @@ Is an instance of [dateformat](https://github.com/felixge/node-dateformat).
 [MIT-image]: http://img.shields.io/badge/license-MIT-brightgreen.svg
 
 [greenkeeper-url]: https://greenkeeper.io/
-[greenkeeper-image]: https://badges.greenkeeper.io/ScorpioCoding/sc-gutil.svg
+[greenkeeper-image]: https://badges.greenkeeper.io/ScorpioCoding/sc-gutil.svg?style=flat-square
+
 
 [sc-url]: https://scorpiocoding.net
-[sc-image]: https://img.shields.io/website-up-down-green-red/http/shields.io.svg?label=scorpiocoding.net
+[sc-image]: https://img.shields.io/website-up-down-green-red/http/shields.io.svg?label=scorpiocoding.net&style=for-the-badge
+
+[slack-url]: https://scorpiocoding.slack.com
+[slack-image]: https://img.shields.io/badge/slack-chat-ff69b4.svg?style=for-the-badge
+
+[twitter-url]:https://twitter.com/ScorpioCoding
+[twitter-image]:https://img.shields.io/twitter/url/http/shields.io.svg?style=for-the-badge
+
+
+## Social
+
+[![sc up/down][sc-image]][sc-url]     [![sc twitter][twitter-image]][twitter-url]     [![sc slack][slack-image]][slack-url] 
 
 
 
